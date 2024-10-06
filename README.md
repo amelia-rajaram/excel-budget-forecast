@@ -6,7 +6,7 @@ This project demonstrates a comprehensive budget forecasting report using Micros
 
 - **Income Statement**: A detailed income statement built from submitted budgets, which outlines revenue, COGS, gross margin, operating income, and net income.
 - **Expense Allocation**: Departmental budget allocations based on forecasted gross profits.
-- **12–Month Forecast**: The project features a 12-month forecast for departmental expenses, with budget allocations distributed evenly across each month
+- **12–Month Forecast**: The project features a 12-month forecast for departmental expenses, with budget allocations distributed evenly across each month.
 - **Assumptions and Projections**: Includes key assumptions for revenue, unit sales, COGS, and tax rates that drive the overall forecast.
 - **Data Validation**: Incorporates dropdown lists for streamlined data entry.
 
