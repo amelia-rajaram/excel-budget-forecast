@@ -1,13 +1,20 @@
 ## Excel Budget Forecasting
 
-This project demonstrates the creation of a comprehensive budget forecasting template using Microsoft Excel. It includes a detailed breakdown of revenue, costs, and expenses, and provides a clear forecasting framework for operational budgets across multiple departments. The **focus of the project** is on accurately projecting future costs and ensuring that total operating expenses stay within projected gross profits.
+This project demonstrates a comprehensive budget forecasting report using Microsoft Excel. It includes a detailed breakdown of revenue, costs, and expenses, and provides a clear forecasting framework for operational budgets across multiple departments. The **focus of the project** is on accurately projecting future costs, allocating departmental budgets, and ensuring that total operating expenses remain aligned with projected gross profits.
 
 ## Key Features:
 
 - **Income Statement**: A detailed income statement built from submitted budgets, which outlines revenue, COGS, gross margin, operating income, and net income.
-- **Budget Template**: A fully customizable template for departmental budget allocation with pre-filled formulas to track monthly expenses for Operations, Marketing, Finance, HR, IT, and Customer Support.
-- **Expense Allocation**: Departmental budget allocations based on forecasted gross profits, ensuring that operating expenses align with financial targets.
+- **Expense Allocation**: Departmental budget allocations based on forecasted gross profits.
+- **12–Month Forecast**: The project features a 12-month forecast for departmental expenses, with budget allocations distributed evenly across each month
 - **Assumptions and Projections**: Includes key assumptions for revenue, unit sales, COGS, and tax rates that drive the overall forecast.
-- **Data Validation**: Incorporates dropdown lists for streamlined data entry and error reduction in budget submissions.
-- **12–Month Forecast**: The project features a 12-month forecast for departmental expenses, with budget allocations distributed evenly across each month.
+- **Data Validation**: Incorporates dropdown lists for streamlined data entry.
+
+## Visualizations
+
+<img width="600" alt="Screenshot 2024-10-06 at 1 46 19 PM" src="https://github.com/user-attachments/assets/5ff766bb-a538-44a9-9a28-12e7d3061c39">
+<img width="1122" alt="Screenshot 2024-10-06 at 1 46 29 PM" src="https://github.com/user-attachments/assets/56cfc7a4-d126-4bb9-badf-86ad00f435b1">
+<img width="471" alt="Screenshot 2024-10-06 at 1 46 38 PM" src="https://github.com/user-attachments/assets/f0695624-5a1a-4265-b667-2d484b2a7173">
+<img width="854" alt="Screenshot 2024-10-06 at 1 46 55 PM" src="https://github.com/user-attachments/assets/bcc21c88-b6a2-4642-9bef-692fb47d75ef">
+
 
