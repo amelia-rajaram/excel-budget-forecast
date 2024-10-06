@@ -22,6 +22,11 @@ This project demonstrates a comprehensive budget forecasting report using Micros
 <img width="471" alt="Department Budget Template Overview" src="https://github.com/user-attachments/assets/f0695624-5a1a-4265-b667-2d484b2a7173">
 
 ### Complete Expense and Budget Forecast Table
-<img width="854" alt="Complete Expense and Budget Forecast Table" src="https://github.com/user-attachments/assets/bcc21c88-b6a2-4642-9bef-692fb47d7ef">
+<img width="854" alt="Screenshot 2024-10-06 at 1 46 55 PM" src="https://github.com/user-attachments/assets/bcc21c88-b6a2-4642-9bef-692fb47d75ef">
+
+## Repository Contents
+
+- **README.md**: Project overview and details
+- **Monthly_Budget_Forecasting.xlsx**: Excel file containing budget and forecasting report
 
 
