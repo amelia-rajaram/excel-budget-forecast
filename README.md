@@ -27,6 +27,6 @@ This project demonstrates a comprehensive budget forecasting report using Micros
 ## Repository Contents
 
 - **README.md**: Project overview and details
-- **Monthly_Budget_Forecasting.xlsx**: Excel file containing budget and forecasting report
+- **Monthly_Budget_Forecasting.xlsx**: Excel file containing the budget and forecasting report
 
 
