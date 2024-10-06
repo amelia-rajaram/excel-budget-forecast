@@ -12,16 +12,16 @@ This project demonstrates a comprehensive budget forecasting report using Micros
 
 ## Visualizations
 
-### Income Statement Breakdown
+### Income Statement 
 <img width="600" alt="Income Statement Breakdown" src="https://github.com/user-attachments/assets/5ff766bb-a538-44a9-9a28-12e7d3061c39">
 
-### Monthly Expense Allocation
+### Budget Template
 <img width="1122" alt="Monthly Expense Allocation" src="https://github.com/user-attachments/assets/56cfc7a4-d126-4bb9-badf-86ad00f435b1">
 
-### Department Budget Template Overview
+### Data Validation Drop Down
 <img width="471" alt="Department Budget Template Overview" src="https://github.com/user-attachments/assets/f0695624-5a1a-4265-b667-2d484b2a7173">
 
-### Complete Expense and Budget Forecast Table
+### Submitted Budget
 <img width="854" alt="Screenshot 2024-10-06 at 1 46 55 PM" src="https://github.com/user-attachments/assets/bcc21c88-b6a2-4642-9bef-692fb47d75ef">
 
 ## Repository Contents
