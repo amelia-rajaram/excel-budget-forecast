@@ -16,10 +16,10 @@ This project demonstrates a comprehensive budget forecasting report using Micros
 <img width="504" alt="Screenshot 2024-10-06 at 2 42 47 PM" src="https://github.com/user-attachments/assets/d1a4a4cf-d427-427f-96c1-bdb62acc13d3">
 
 ### Budget Template
-<img width="1122" alt="Monthly Expense Allocation" src="https://github.com/user-attachments/assets/56cfc7a4-d126-4bb9-badf-86ad00f435b1">
+<img width="1122" alt="Screenshot 2024-10-06 at 2 44 22 PM" src="https://github.com/user-attachments/assets/ed81fcbe-63fa-4632-a769-f442f2b45314">
 
 ### Data Validation Drop Down
-<img width="471" alt="Department Budget Template Overview" src="https://github.com/user-attachments/assets/f0695624-5a1a-4265-b667-2d484b2a7173">
+<img width="468" alt="Screenshot 2024-10-06 at 2 44 33 PM" src="https://github.com/user-attachments/assets/6f3e724f-c52b-4494-9b22-394f0b6f4fe2">
 
 ### Submitted Budget
 <img width="854" alt="Screenshot 2024-10-06 at 1 46 55 PM" src="https://github.com/user-attachments/assets/bcc21c88-b6a2-4642-9bef-692fb47d75ef">
