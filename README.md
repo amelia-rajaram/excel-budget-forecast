@@ -13,7 +13,7 @@ This project demonstrates a comprehensive budget forecasting report using Micros
 ## Visualizations
 
 ### Income Statement 
-<img width="600" alt="Income Statement Breakdown" src="https://github.com/user-attachments/assets/5ff766bb-a538-44a9-9a28-12e7d3061c39">
+<img width="504" alt="Screenshot 2024-10-06 at 2 42 47 PM" src="https://github.com/user-attachments/assets/d1a4a4cf-d427-427f-96c1-bdb62acc13d3">
 
 ### Budget Template
 <img width="1122" alt="Monthly Expense Allocation" src="https://github.com/user-attachments/assets/56cfc7a4-d126-4bb9-badf-86ad00f435b1">
