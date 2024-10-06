@@ -1,4 +1,4 @@
-## Excel Budget Forecasting
+# Excel Budget Forecasting
 
 This project demonstrates a comprehensive budget forecasting report using Microsoft Excel. It includes a detailed breakdown of revenue, costs, and expenses, and provides a clear forecasting framework for operational budgets across multiple departments. The **focus of the project** is on accurately projecting future costs, allocating departmental budgets, and ensuring that total operating expenses remain aligned with projected gross profits.
 
